@@ -16,4 +16,5 @@ h1,h3{
 }
 .navbar a{
     text-decoration: none;
+    list-style: none;
 }
