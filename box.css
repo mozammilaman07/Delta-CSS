@@ -3,4 +3,5 @@ div{
     width: 500px;
     background-color: pink;
     border-width: 3px;
+    border-style: solid;
 }
