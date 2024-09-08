@@ -8,3 +8,10 @@ div{
     display: inline-block;
 
 }
+
+.static{
+    background-color: yellow;
+    position: static;
+    top: 100px;
+    left: 100px;
+}
