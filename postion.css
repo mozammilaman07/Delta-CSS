@@ -17,7 +17,7 @@ div{
 }
 .fixed{
     background-color: rgb(133, 230, 68);
-    position: static;
+    position: fixed;
     top: 100px;
     left: 100px;
 }
