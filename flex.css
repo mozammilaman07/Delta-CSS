@@ -1,13 +1,13 @@
 .outer{
-    height: 400px;
-    width: 800px;
+    height: 600px;
+    width: 1000px;
     display: flex;
     background-color: rgb(143, 184, 184);
     
     
 }
 .box{
-     height: 100px;
+    height: 100px;
     width: 100px;
     margin: 20px;
 
@@ -22,5 +22,17 @@
 }
 .box3{
     background-color: rgb(60, 31, 129);
-   
+  
+}
+.box4{
+    background-color: rgb(8, 7, 10);
+  
+}
+.box5{
+    background-color: rgb(201, 224, 69);
+  
+}
+.box6{
+    background-color: rgb(206, 44, 133);
+  
 }
