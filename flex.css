@@ -2,9 +2,23 @@
     height: 400px;
     width: 400ox;
     
+    
 }
-.box{
+.box1{
     background-color: aqua;
     height: 100px;
     width: 100px;
+    margin: 20px;
+}
+.box2{
+    background-color: rgb(199, 76, 62);
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+.box3{
+    background-color: rgb(60, 31, 129);
+    height: 100px;
+    width: 100px;
+    margin: 20px;
 }
