@@ -7,7 +7,7 @@ h1{
     display: flex;
     background-color: rgb(143, 184, 184);
     margin: 10px auto;
-    flex-direction: row;
+    flex-direction: row-reverse;
     
     
 }
