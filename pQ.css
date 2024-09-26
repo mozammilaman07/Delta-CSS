@@ -1,6 +1,8 @@
 .container{
     height: 400px;
     width: 400px;
+    border: 3px solid rgb(76, 198, 231);
+    border-radius: 10px;
 }
 .child{
     height: 100px;
