@@ -8,12 +8,13 @@ h1{
     background-color: rgb(143, 184, 184);
     margin: 10px auto;
     flex-direction: row;
+    justify-content: space-between;
     
     
 }
 .box{
     height: 100px;
-    width: 200px;
+    width: 100px;
     margin: 20px;
 
 }
