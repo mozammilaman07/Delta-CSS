@@ -2,19 +2,20 @@ h1{
     text-align: center;
 }
 .outer{
-    height: 600px;
-    width: 1000px;
+    height: 300px;
+    width: 800px;
     display: flex;
     background-color: rgb(143, 184, 184);
     margin: 10px auto;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     
     
 }
 .box{
     height: 100px;
-    width: 100px;
+    width: 200px;
     /* margin: 20px; */
 
 }
