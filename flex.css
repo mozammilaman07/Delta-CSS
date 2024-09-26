@@ -8,7 +8,7 @@ h1{
     background-color: rgb(143, 184, 184);
     margin: 10px auto;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     
     
 }
