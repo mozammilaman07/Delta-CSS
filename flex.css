@@ -9,7 +9,7 @@ h1{
     margin: 10px auto;
     flex-direction: row;
     justify-content: space-evenly;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     
     
 }
